@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnGuardClauses", "LearnGuardClauses\LearnGuardClauses.csproj", "{E42A865B-CA70-456E-AD4B-13852D6CEE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42A865B-CA70-456E-AD4B-13852D6CEE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42A865B-CA70-456E-AD4B-13852D6CEE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42A865B-CA70-456E-AD4B-13852D6CEE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42A865B-CA70-456E-AD4B-13852D6CEE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1502C1D-C104-42FE-B4FC-23B08113EA1F}
+	EndGlobalSection
+EndGlobal
